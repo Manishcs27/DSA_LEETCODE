@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Manishcs27/DSA_LEETCODE/tree/master/0020-valid-parentheses) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Manishcs27/DSA_LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
@@ -50,5 +51,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Manishcs27/DSA_LEETCODE/tree/master/0020-valid-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Manishcs27/DSA_LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Manishcs27/DSA_LEETCODE/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
